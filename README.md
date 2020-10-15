@@ -15,4 +15,4 @@
 ruby 8ball.rb
 ```
 
-Автор: Хасанов Дамир(quietpochatok).
+Автор: Хасанов Дамир ([quietpochatok](https://github.com/quietpochatok)).
